@@ -3,6 +3,8 @@
 ---
 
 ## Projects
+*Note: Click on Blue headings to reach the specific project repository having project files and images*
+
 
 ### [1. Supply Chain Report](https://github.com/Sampreett/Supply-Chain-Report)
 
