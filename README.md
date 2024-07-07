@@ -1,6 +1,6 @@
  *Note:<br>* 
   &nbsp; None of the datasets used for these projects are from real business entities hence project names are generic.<br>
-  &nbsp; Click on Blue headings to reach the specific project repository having project files and images.
+  &nbsp; Click on Blue headings to view project images and repository.
 
 ### [1. Supply Chain Report](https://sampreett.github.io/Supply-Chain-Report/)
 
