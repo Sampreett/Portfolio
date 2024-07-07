@@ -1,7 +1,3 @@
-# Sampreet Pancholiya's Portfolio
-
----
-
 ## Projects
 *Note: Click on Blue headings to reach the specific project repository having project files and images*
 
