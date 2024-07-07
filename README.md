@@ -6,7 +6,7 @@
 *Note: Click on Blue headings to reach the specific project repository having project files and images*
 
 
-### [1. Supply Chain Report](https://github.com/Sampreett/Supply-Chain-Report)
+### [1. Supply Chain Report](https://sampreett.github.io/Supply-Chain-Report/)
 
 **Description:**  
 This report provides a comprehensive overview of supply chain performance through key performance indicators (KPIs) and detailed analysis. It is designed to offer insights into order fulfillment, service levels, and delivery times.
@@ -31,7 +31,7 @@ This report provides a comprehensive overview of supply chain performance throug
 
 ---
 
-### [2. HR Dashboard](https://github.com/Sampreett/HR-Dashboard)
+### [2. HR Dashboard](https://sampreett.github.io/HR-Dashboard/)
 
 **Description:**  
 This dashboard provides an in-depth analysis of various HR metrics, offering insights into employee diversity, attrition, income, training, qualifications, and key performance indicators (KPIs). It is designed to help understand the workforce dynamics and support strategic HR decisions.
@@ -70,7 +70,7 @@ This dashboard provides an in-depth analysis of various HR metrics, offering ins
 
 ---
 
-### [3. Product & Sales Report & Dashboard](https://github.com/Sampreett/Product-Sales-Report-Dashboard)
+### [3. Product & Sales Report & Dashboard](https://sampreett.github.io/Product-Sales-Report-Dashboard/)
 
 **Description:**  
 This project provides a detailed analysis of product performance and sales data through comprehensive dashboards and reports. It is designed to offer insights into sales, profits, and cost metrics to support strategic business decisions.
@@ -91,7 +91,7 @@ This project provides a detailed analysis of product performance and sales data 
 
 ---
 
-### [Visualization Exercises for Practice](https://github.com/Sampreett/Visualization-Exercises-for-practice-)
+### [Visualization Exercises for Practice](https://sampreett.github.io/Visualization-Exercises-for-practice-/)
 
 - New year resolutions
 - Project Pipelines
