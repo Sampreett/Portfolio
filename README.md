@@ -2,7 +2,42 @@
   &nbsp; None of the datasets used for these projects are from real business entities hence project names are generic.<br>
   &nbsp; Click on Blue headings to view project images and repository.
 
-### [1. Supply Chain Report](https://sampreett.github.io/Supply-Chain-Report/)
+### [1. SuperStore US Sales Report](https://sampreett.github.io/Supply-Chain-Report/)
+
+A Power BI report analyzing sales data for an imaginary Superstore in the United States. The report is divided into three pages, each focusing on different aspects of the sales performance.
+
+**Key Features:**
+
+-**Executive Overview**
+  - **Line Charts (Profit, Sales, Quantity, Returns):** These charts compare the previous year's and the current year's metrics, providing insights into the performance trends over time.
+  - **Sales vs Target Bar Chart:** Displays how actual sales compare to the set targets, highlighting the performance against goals.
+  - **Segment Sales Speedometer:** A speedometer visual that shows current and previous year sales for each customer segment, allowing for quick comparisons.
+  - **Manager Sales vs Target Bar Chart:** This chart compares the sales performance of each manager against their targets, helping to identify top performers.
+  - **Sub-Category Sales vs Target Bar Chart:** Illustrates how sales in various product sub-categories measure up to their respective targets.
+  - **Sales Trend:** A trend chart that shows sales data broken down weekly, monthly, and quarterly, offering a detailed view of sales patterns.
+
+-**Regional Performance**
+  
+  - **Regional Sales Line Charts:** Line charts that compare the sales figures of the previous year and the current year for each region.
+  - **Category Sales by Region Bar Charts:** These bar charts show the sales for each category within a specific region, along with their percentage contribution.
+  - **Regional Orders Pie Charts:** Pie charts that display the total number of orders for each region and the share of each ship mode in the total orders.
+  - **Product Delivery Time Scatter Chart:** A scatter chart that visualizes the average delivery time in days for products shipped via different modes.
+  - **Filled Map of US Sales:** A filled map highlighting the sales distribution across different states in the United States, providing a geographic perspective on performance.
+
+-**Order Details**
+
+  - **Paginated Matrix:** A matrix visualization displaying detailed information on orders, including:
+    - **Order ID:** Unique identifier for each order.
+    - **Customer Name:** Name of the customer who placed the order.
+    - **Segment:** The customer segment (Consumer, Corporate, Home Office).
+    - **Ship Mode:** The shipping mode used (e.g., First Class, Standard).
+    - **Shipping Late Indicator:** An indicator showing if the shipment was late.
+    - **Delivery Details:** Details about the delivery, including days to ship.
+    - **Sales Bar:** A bar chart within the matrix showing the sales amount.
+    - **Profit Chip:** A chip visual showing the profit amount.
+    - **Profit Ratio:** The ratio of profit relative to sales, expressed as a percentage.
+
+### [2. Supply Chain Report](https://sampreett.github.io/Supply-Chain-Report/)
 
 **Description:**  
 This report provides a comprehensive overview of supply chain performance through key performance indicators (KPIs) and detailed analysis. It is designed to offer insights into order fulfillment, service levels, and delivery times.
@@ -27,7 +62,7 @@ This report provides a comprehensive overview of supply chain performance throug
 
 ---
 
-### [2. HR Dashboard](https://sampreett.github.io/HR-Dashboard/)
+### [3. HR Dashboard](https://sampreett.github.io/HR-Dashboard/)
 
 **Description:**  
 This dashboard provides an in-depth analysis of various HR metrics, offering insights into employee diversity, attrition, income, training, qualifications, and key performance indicators (KPIs). It is designed to help understand the workforce dynamics and support strategic HR decisions.
@@ -66,7 +101,7 @@ This dashboard provides an in-depth analysis of various HR metrics, offering ins
 
 ---
 
-### [3. Product & Sales Report & Dashboard](https://sampreett.github.io/Product-Sales-Report-Dashboard/)
+### [4. Product & Sales Report & Dashboard](https://sampreett.github.io/Product-Sales-Report-Dashboard/)
 
 **Description:**  
 This project provides a detailed analysis of product performance and sales data through comprehensive dashboards and reports. It is designed to offer insights into sales, profits, and cost metrics to support strategic business decisions.
