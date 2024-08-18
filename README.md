@@ -2,7 +2,7 @@
   &nbsp; None of the datasets used for these projects are from real business entities hence project names are generic.<br>
   &nbsp; Click on Blue headings to view project images and repository.
 
-### [1. SuperStore US Sales Report](https://github.com/Sampreett/SuperStoreUS-Sales-Report/) <small>(Click on the heading to view the report)</small>
+### [1. SuperStore US Sales Report](https://github.com/Sampreett/SuperStoreUS-Sales-Report/) <span style="font-size: smaller;">(Click on the heading to view the report)</span>
 
 A Power BI report analyzing sales data for an imaginary Superstore in the United States. The report is divided into three pages, each focusing on different aspects of the sales performance.
 
