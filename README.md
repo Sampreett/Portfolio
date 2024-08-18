@@ -1,6 +1,6 @@
- *Note:<br>* 
-  &nbsp; None of the datasets used for these projects are from real business entities hence project names are generic.<br>
-  &nbsp; *Click on Blue headings to view project images and repository.*
+ *Note:<br>*  
+&nbsp; None of the datasets used for these projects are from real business entities hence project names are generic.<br>  
+&nbsp; **Click on Blue headings to get a view of the reports and dashboards**
 
 ### [1. SuperStore US Sales Report](https://github.com/Sampreett/SuperStoreUS-Sales-Report/)
 
